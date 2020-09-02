@@ -43,46 +43,46 @@ export function colors(darkMode: boolean): Colors {
     // text
     text1: darkMode ? '#FFFFFF' : '#000000',
     text2: darkMode ? '#C3C5CB' : '#565A69',
-    text3: darkMode ? '#6C7284' : '#888D9B',
+    text3: darkMode ? '#737373' : '#8c8c8c',
     text4: darkMode ? '#565A69' : '#C3C5CB',
-    text5: darkMode ? '#2C2F36' : '#EDEEF2',
+    text5: darkMode ? '#262626' : '#EDEEF2',
 
     // backgrounds / greys
     bg1: darkMode ? '#212429' : '#FFFFFF',
-    bg2: darkMode ? '#2C2F36' : '#F7F8FA',
-    bg3: darkMode ? '#40444F' : '#EDEEF2',
+    bg2: darkMode ? '#262626' : '#F7F8FA',
+    bg3: darkMode ? '#404040' : '#EDEEF2',
     bg4: darkMode ? '#565A69' : '#CED0D9',
-    bg5: darkMode ? '#6C7284' : '#888D9B',
+    bg5: darkMode ? '#737373' : '#8c8c8c',
 
     //specialty colors
     modalBG: darkMode ? 'rgba(0,0,0,.425)' : 'rgba(0,0,0,0.3)',
     advancedBG: darkMode ? 'rgba(0,0,0,0.1)' : 'rgba(255,255,255,0.6)',
 
     //primary colors
-    primary1: darkMode ? '#2172E5' : '#ff007a',
-    primary2: darkMode ? '#3680E7' : '#FF8CC3',
-    primary3: darkMode ? '#4D8FEA' : '#FF99C9',
-    primary4: darkMode ? '#376bad70' : '#F6DDE8',
-    primary5: darkMode ? '#153d6f70' : '#FDEAF1',
+    primary1: darkMode ? '#ffb31a' : '#e6b800',
+    primary2: darkMode ? '#e6b800' : '#ffcc00',
+    primary3: darkMode ? '#ffcc00' : '#ffc34d',
+    primary4: darkMode ? '#376bad70' : '#fff5cc',
+    primary5: darkMode ? '#4d3d00' : '#FDEAF1',
 
     // color text
-    primaryText1: darkMode ? '#6da8ff' : '#ff007a',
+    primaryText1: darkMode ? '#e6b800' : '#e6b800',
 
     // secondary colors
-    secondary1: darkMode ? '#2172E5' : '#ff007a',
-    secondary2: darkMode ? '#17000b26' : '#F6DDE8',
-    secondary3: darkMode ? '#17000b26' : '#FDEAF1',
+    secondary1: darkMode ? '#ffb31a' : '#e6b800',
+    secondary2: darkMode ? '#000000' : '#fff5cc',
+    secondary3: darkMode ? '#000000' : '#FDEAF1',
 
     // other
-    red1: '#FF6871',
-    red2: '#F82D3A',
+    red1: '#e6b800',
+    red2: '#cca300',
     green1: '#27AE60',
     yellow1: '#FFE270',
     yellow2: '#F3841E'
 
     // dont wanna forget these blue yet
-    // blue4: darkMode ? '#153d6f70' : '#C4D9F8',
-    // blue5: darkMode ? '#153d6f70' : '#EBF4FF',
+    // blue4: darkMode ? '#4d3d00' : '#C4D9F8',
+    // blue5: darkMode ? '#4d3d00' : '#EBF4FF',
   }
 }
 
