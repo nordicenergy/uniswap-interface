@@ -3,7 +3,7 @@
 # Nordic Energy - Uniswap Interface
 
 [![Tests](https://github.com/nordicenergy/uniswap-interface/workflows/Tests/badge.svg)](https://github.com/nordicenergy/uniswap-interface/actions?query=workflow%3ATests)
-[![Styled With Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
+[![Styled With Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/) [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/nordicenergy/uniswap-interface) [![Netlify Status](https://api.netlify.com/api/v1/badges/7ba1490a-5215-43f3-9d9a-f409dad9ba12/deploy-status)](https://app.netlify.com/sites/nordicenergy-uniswap/deploys)
 
 An custom interface for Nordic Energy´s Uniswap -- a protocol for decentralized exchange of Ethereum tokens.
 
