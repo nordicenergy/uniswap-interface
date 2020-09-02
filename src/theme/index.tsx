@@ -42,16 +42,16 @@ export function colors(darkMode: boolean): Colors {
 
     // text
     text1: darkMode ? '#FFFFFF' : '#000000',
-    text2: darkMode ? '#C3C5CB' : '#565A69',
+    text2: darkMode ? '#C3C5CB' : '#595959',
     text3: darkMode ? '#737373' : '#8c8c8c',
-    text4: darkMode ? '#565A69' : '#C3C5CB',
-    text5: darkMode ? '#262626' : '#EDEEF2',
+    text4: darkMode ? '#595959' : '#C3C5CB',
+    text5: darkMode ? '#262626' : ' #f2f2f2',
 
     // backgrounds / greys
     bg1: darkMode ? '#212429' : '#FFFFFF',
     bg2: darkMode ? '#262626' : '#F7F8FA',
-    bg3: darkMode ? '#404040' : '#EDEEF2',
-    bg4: darkMode ? '#565A69' : '#CED0D9',
+    bg3: darkMode ? '#404040' : ' #f2f2f2',
+    bg4: darkMode ? '#595959' : '#d9d9d9',
     bg5: darkMode ? '#737373' : '#8c8c8c',
 
     //specialty colors
@@ -59,26 +59,26 @@ export function colors(darkMode: boolean): Colors {
     advancedBG: darkMode ? 'rgba(0,0,0,0.1)' : 'rgba(255,255,255,0.6)',
 
     //primary colors
-    primary1: darkMode ? '#ffb31a' : '#e6b800',
-    primary2: darkMode ? '#e6b800' : '#ffcc00',
+    primary1: darkMode ? '#ffb31a' : '#cca300',
+    primary2: darkMode ? '#cca300' : '#ffcc00',
     primary3: darkMode ? '#ffcc00' : '#ffc34d',
     primary4: darkMode ? '#376bad70' : '#fff5cc',
-    primary5: darkMode ? '#4d3d00' : '#FDEAF1',
+    primary5: darkMode ? '#4d3d00' : '#f2f2f2',
 
     // color text
-    primaryText1: darkMode ? '#e6b800' : '#e6b800',
+    primaryText1: darkMode ? '#cca300' : '#cca300',
 
     // secondary colors
-    secondary1: darkMode ? '#ffb31a' : '#e6b800',
+    secondary1: darkMode ? '#ffb31a' : '#cca300',
     secondary2: darkMode ? '#000000' : '#fff5cc',
-    secondary3: darkMode ? '#000000' : '#FDEAF1',
+    secondary3: darkMode ? '#000000' : '#f2f2f2',
 
     // other
-    red1: '#e6b800',
-    red2: '#cca300',
+    red1: '#cca300',
+    red2: '#e6b800',
     green1: '#27AE60',
     yellow1: '#FFE270',
-    yellow2: '#F3841E'
+    yellow2: '#e6b800'
 
     // dont wanna forget these blue yet
     // blue4: darkMode ? '#4d3d00' : '#C4D9F8',
